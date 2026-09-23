@@ -8,3 +8,4 @@ table CLIENTES (
     telefono VARCHAR(15),
     direccion VARCHAR(255)
 );
+
